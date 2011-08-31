@@ -544,7 +544,7 @@
 "Magento Connect Manager","Abrir Magento Connect"
 "Magento Logo","Logo do Magento"
 "Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc.","Magento é uma marca registrada de Magento Inc. Copyright &copy; %s Magento Inc."
-"Magento ver. %s","Magento versão. %s <br/>Traduzido por <a href='http://www.mariosam.com/' target='_blank'>Mario SAM</a> - <a href='http://escolamagento.com/' target='_blank'>Escola Magento</a>"
+"Magento ver. %s","Magento versão. %s <br/>Tradução feita com base na tradução de Mario San"
 "Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.","Magento&trade; é uma marca registrada da Magento Inc.<br/>Copyright &copy; %s Magento Inc."
 "Main Tabs","Tabs Principal"
 "Make Inactive","Tornar Inativo"
@@ -799,6 +799,8 @@
 "Qty","Qtd"
 "Qty:","Qtd:"
 "Quantity","Quantidade"
+"Visibility","Visibilidade"
+
 "Queue Refresh","Atualizar Fila"
 "Queued... Cancel","Fila... Cancelar"
 "Radio Buttons","Radio Buttons"
